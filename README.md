@@ -1,7 +1,6 @@
-# detecteur_image_ia
+# Détecteur d'images générées par IA
 
-Outil expérimental de détection d'images générées par IA, basé sur l'analyse
-statistique des gradients locaux.
+> Analyse statistique des gradients locaux pour distinguer photographies réelles et images générées par intelligence artificielle.
 
 ## Principe
 
